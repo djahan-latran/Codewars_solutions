@@ -9,7 +9,6 @@
 
 
 """My solution"""
-
 # Pre-order traversal
 def pre_order(node):
     results = []
